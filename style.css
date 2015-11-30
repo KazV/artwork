@@ -1,0 +1,47 @@
+.title{
+	color: orange;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+    line-height: 2.1;
+    border: double; 
+    margin-bottom: 10px;
+}
+
+.text{
+	color: green;
+	font-size: 30px;
+	text-align: center;
+	line-height: 2.1;
+
+}
+
+.text1{
+	color: pink;
+	font-size: 20px;
+	text-align: center;
+	line-height: 2.1;
+
+}
+
+.image{
+	width: 400px;
+	position: relative;
+	left: 425px;
+
+}
+
+.chart{
+	width: 200
+	height: 110;
+}
+
+.circle{
+	left: 425px;
+	r: 40px;
+}
+
+.rect{
+	width: 300px;
+	height: 100;
+}
